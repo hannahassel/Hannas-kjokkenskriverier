@@ -1,0 +1,128 @@
+
+
+
+body{
+background-color: lightcyan;
+font-family: garamond, georgia, serif;
+color: lightskyblue;
+}
+
+h1 {
+font-size: 50px;
+color: lavender;
+}
+
+h2 {
+  font-size: 20px;
+  color: lightpink;
+}
+
+p {
+	color: lightskyblue;
+}
+
+img {
+width: 600px;
+border-width: 15px;
+border-style: solid;
+border-color: lightskyblue;
+object-fit: contain;
+	}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  object-fit: fill;
+}
+
+
+  .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px;
+  color: lightskyblue;
+}
+
+.container2 {
+  position:  relative;
+  text-align: center;
+  color: lightskyblue;
+  object-fit: contain;
+}
+
+.container3 {
+
+position:  relative;
+text-align: left;
+color: lightskyblue;
+object-fit: contain;
+}
+
+.container4 {
+  position: relative;
+  text-align: left;
+  color: lightskyblue;
+  object-fit: contain;
+}
+
+.container5 {
+  position: relative;
+  text-align: right;
+  color: lightskyblue;
+  object-fit: contain;
+  float: right;
+}
+
+.container6 {
+  position: relative;
+  text-align: left;
+  color: lightskyblue;
+  object-fit: contain;
+}
+
+.container7 {
+  position: relative;
+  text-align: right;
+  color: lightskyblue;
+  object-fit: contain;
+  float: right;
+  border-width: 15px;
+  border-style: solid;
+  border-color: lightskyblue;
+  object-fit: contain;
+}
+
+.container8 {
+  float: right;
+  color: lightskyblue;
+  position: up;
+  height: -20px;
+}
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightskyblue;
+}
+
+.nav li {
+  float: left;
+}
+
+.nav li a {
+  display: block;
+  color: whitesmoke;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav li a:hover {
+  background-color: thistle;
+}
+

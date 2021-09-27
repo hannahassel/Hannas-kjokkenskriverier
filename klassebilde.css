@@ -1,0 +1,33 @@
+body {
+	font-family: garamond, georgia, serif;
+	color: purple;
+	background-color: lightgreen;
+}
+h1 {
+	font-size: 40px;
+}
+p {
+	font-size: 20px;
+}
+
+.elever{ 
+ width:300px ;
+height: 300px;
+border-width: 10px;
+      border-style: double ;
+      border-color:lavender ;
+margin: 15px;
+ }
+
+.bilder{
+	display: block;
+	text-align: center;
+	margin-left: 50;
+	margin-right: 50;
+}
+
+#navn{
+	border-width: 2px;
+	border-style: solid;
+	border-color: whitesmoke;
+}
